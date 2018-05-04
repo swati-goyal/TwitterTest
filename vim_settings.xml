@@ -1,0 +1,68 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/TwitterTest/pages/dashboard.py" timestamp="1525415037202">
+        <mark key="'" line="73" column="88" />
+        <mark key="[" line="69" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525417514514">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1525310458864">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TwitterTest/tests/logintest.py" timestamp="1525409529067">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="/a.dummy" timestamp="1525171297550">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TwitterTest/pages/login.py" timestamp="1525397023408">
+        <mark key="[" line="10" column="79" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/TwitterTest/pages/dashboard.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/PycharmProjects/TwitterTest/pages/dashboard.py" />
+      <jump line="46" column="88" filename="$USER_HOME$/PycharmProjects/TwitterTest/pages/dashboard.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CgoKICAgIGRlZiB0ZWFyRG93bihzZWxmKToKICAgICAgICBwYXNzCiAgICAgICAgc2VsZi5kcml2ZXIuY2xvc2UoKQ==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgoKICAgIGRlZiB0ZWFyRG93bihzZWxmKToKICAgICAgICBwYXNzCiAgICAgICAgc2VsZi5kcml2ZXIuY2xvc2UoKQ==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzZWxmXD4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
