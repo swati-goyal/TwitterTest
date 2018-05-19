@@ -15,7 +15,7 @@
         <mark key="]" line="77" column="8" />
         <mark key="." line="77" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1526734039526">
+      <file name="/Python Console" timestamp="1526734721080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Graphs/simple.py" timestamp="1526730240677">
@@ -32,9 +32,7 @@
       <file name="$USER_HOME$/PycharmProjects/TwitterTest/pages/login.py" timestamp="1525397023408">
         <mark key="[" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Graphs/network.py" timestamp="1526733990415">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/Graphs/network.py" timestamp="1526734690407" />
     </filemarks>
     <jumps>
       <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/TwitterTest/pages/dashboard.py" />
